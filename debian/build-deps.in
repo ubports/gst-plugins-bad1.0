@@ -68,7 +68,7 @@ libglu1-mesa-dev [!armhf]
 libxml2-dev (>= 2.8)
 libfluidsynth-dev (>= 1.0)
 libsrtp0-dev
-libopenjp2-7-dev
+libopenjpeg-dev
 libchromaprint-dev
 libwebp-dev (>= 0.2.1)
 libmjpegtools-dev

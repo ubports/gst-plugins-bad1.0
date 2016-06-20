@@ -1,3 +1,10 @@
+gst-plugins-bad1.0 (1.8.2-1ubuntu0.1) xenial; urgency=medium
+
+  * Backport to 16.04
+  * debian/build-deps.in: Revert change to OpenJPEG 2.1.
+
+ -- Iain Lane <iain.lane@canonical.com>  Mon, 20 Jun 2016 17:49:58 +0100
+
 gst-plugins-bad1.0 (1.8.2-1ubuntu1) yakkety; urgency=medium
 
   * Merge with Debian unstable (LP: #1575152); remaining changes:
