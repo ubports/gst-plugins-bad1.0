@@ -1,6 +1,12 @@
 gst-plugins-bad1.0 (1.8.2-1ubuntu0.2ubports1) UNRELEASED; urgency=medium
 
   * Start of UBports fork.
+  * debian/patches/adding-mirsink-and-android-media-over-hybris-support.patch
+    - Merge androidmedia-support-COLOR_QCOM_FormatYVU420SemiPlanar32m.patch
+      with this patch.
+    - Add support for QCOM's MultiView YUV color format.
+  * androidmedia-support-COLOR_QCOM_FormatYVU420SemiPlanar32m.patch
+    - Remove as it's merged with above patch.
 
  -- Ratchanan Srirattanamet <peathot@hotmail.com>  Thu, 20 Jul 2017 23:03:00 +0700
 
